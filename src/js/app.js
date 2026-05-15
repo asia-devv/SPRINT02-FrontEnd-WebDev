@@ -4,14 +4,16 @@ document.addEventListener("DOMContentLoaded", function(){
     /* BOTÃO */
     const botao = document.getElementById("btnComecar");
     const botao2 = document.getElementById("botao2");
-    if(botao || botao2){
+    if(botao){
         botao.addEventListener("click", function(){
             alert("Bem-vindo ao Interguide!");
-            window.location.href = "login.html";
+            window.location.href = "./src/pages/login.html";
         });
+    }
+    if(botao2){
         botao2.addEventListener("click", function(){
             alert("Bem-vindo ao Interguide!");
-            window.location.href = "login.html";
+            window.location.href = "./src/pages/login.html";
         });
     }
 
