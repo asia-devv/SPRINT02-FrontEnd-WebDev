@@ -17,14 +17,14 @@ document.addEventListener("DOMContentLoaded", function(){
 
     /* SLIDESHOW */
     const imagens = [
-        "img/slide1.png",
-        // "img/slide2.png",
-        "img/slide3.png",
-        "img/slide4.png",
-        "img/slide5.png",
-        "img/slide6.png",
-        "img/slide7.png",
-        "img/slide8.png"
+        "./src/images/slide1.png",
+        // "./src/images/slide2.png",
+        "./src/images/slide3.png",
+        "./src/images/slide4.png",
+        "./src/images/slide5.png",
+        "./src/images/slide6.png",
+        "./src/images/slide7.png",
+        "./src/images/slide8.png"
     ];
     let imagemAtual = 0;
     const slide = document.getElementById("slide");
