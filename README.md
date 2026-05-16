@@ -1,9 +1,10 @@
 # 📚 InterGuide
-Sistema web o desenvolvido com HTML, CSS e JavaScript, focado em auxiliar estudantes através de recursos inteligentes, utilizando escaneamento, transcrição de áudio e guia interno.
+Sistema web desenvolvido com HTML, CSS e JavaScript, focado em auxiliar estudantes através de recursos inteligentes, utilizando escaneamento, transcrição de áudio e guia interno.
 
 ## 🌐 Demonstração
 Projeto publicado no GitHub Pages:
 👉 [https://asia-devv.github.io/SPRINT02-FrontEnd-WebDev/](https://asia-devv.github.io/SPRINT02-FrontEnd-WebDev/)
+
 
 # 🔑 Credenciais de Login
 ```txt
@@ -19,11 +20,13 @@ SENHA: 123456
 * 🖥️ Dashboard principal
 * 🎞️ Slideshow interativo na página inicial
 
+
 # 🛠️ Tecnologias Utilizadas
 - **HTML5** — Estrutura e semântica das páginas
 - **CSS3** — Estilização, responsividade e animações
 - **JavaScript** — Interatividade e lógica das funcionalidades
 - **GitHub Pages** — Hospedagem e publicação do projeto
+
 
 # 📂 Estrutura do Projeto
 ```bash
@@ -60,6 +63,7 @@ SPRINT02-FrontEnd-WebDev/
 └── .git/
 ```
 
+
 # 🚀 Como Executar o Projeto
 
 ## 1. Clone o repositório
@@ -86,6 +90,7 @@ O sistema reúne ferramentas voltadas para:
 * Organização de estudos
 * Acessibilidade e praticidade
 
+
 # 📸 Preview do Projeto
 
 ## Página Inicial
@@ -102,6 +107,7 @@ O sistema reúne ferramentas voltadas para:
 
 ## Áudio
 * Interface simulando recurso de gravação e transcrição de áudio
+
 
 # 👨‍💻 Equipe
 | Nome | RM |
